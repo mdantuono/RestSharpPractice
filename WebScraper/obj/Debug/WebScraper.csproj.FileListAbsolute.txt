@@ -1,0 +1,12 @@
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\RestSharp.dll
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\RestSharp.xml
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\obj\Debug\WebScraper.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\obj\Debug\WebScraper.csproj.CopyComplete
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikei\source\repos\RestSharpPractice\WebScraper\obj\Debug\WebScraper.csprojAssemblyReference.cache
